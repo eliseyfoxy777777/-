@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: brown;
+    background-color: rgb(0, 72, 206);
+    transition: 3s linear;
+}
+
+.social {
+    padding: 20px;
+    
+}
+
+.mem {
+    color: blue;
+}
+
+.mem:hover {
+    color: rgb(255, 0, 0);
+    background-color: darkred;
+    transition: 3s linear;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    width: 1000px;
+    transition: 100s linear;
+}
+
+.social {
+    display: block; 
+    text-align: center; 
+    font-style: italic; 
+    margin-top: 0; 
+    margin-bottom: 5px; 
+    color: #666;
+}
+
+
+
+
+
